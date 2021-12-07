@@ -689,6 +689,15 @@ p {
     font-size: 20px;
     font-family: "Open Sans";
 }
+.citation {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 500;
+}
+.signature {
+    font-size: 15px;
+}
+
 
 .cta-hero {
     margin-top: 22px;
